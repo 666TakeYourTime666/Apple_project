@@ -1,3 +1,2 @@
 # Apple_project
-
-This is a Mac-controlled iPhone photo project.
+这是一个Mac控制iPhone拍照的多机位项目
